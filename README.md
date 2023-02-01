@@ -20,3 +20,5 @@ The other teams that goods to watch play
 * PATNA PIRATES
 * JAIPUR PINK PANTHERS
 * TELUGU TITANS
+
+**[To view the information about me](AboutMe.md)**
