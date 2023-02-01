@@ -27,3 +27,23 @@ In this given below table explains the countries to vist which i recomand to go 
 
 >“I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with ’em later."
 >>Author —*Mitch Hedberg*
+
+---
+**CODE FENSING**
+----------------
+>How can Mixin to Qualify a Selector?
+
+Quick link<https://stylable.io/docs/references/mixins/>
+
+
+```
+
+.button {
+  @at-root a#{&} {
+    // Specific styles for `a.button`
+  }
+}
+
+```
+
+Quick link to access this code<https://css-tricks.com/snippets/sass/mixin-to-qualify-a-selector/>
