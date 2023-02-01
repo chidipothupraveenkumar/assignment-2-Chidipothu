@@ -17,3 +17,13 @@ In this given below table explains the countries to vist which i recomand to go 
 | Australia | Best  Constructions   |  30 Days     |
 | Egypt     | mummuys of Egiptians  |  10 Days     | 
 | UK        | Famous for history    |  35 Days     |
+
+---
+**PITHY CODES**
+---------------
+
+>Gentlemen, you can't fight in here. This is the war room.
+>>    Author- *Dr. Strangelove*
+
+>“I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with ’em later."
+>>Author —*Mitch Hedberg*
